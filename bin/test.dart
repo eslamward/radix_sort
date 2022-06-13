@@ -1,1 +1,1 @@
-enum s { dkkd, kdkd }
+enum s { dkkd, dd }
